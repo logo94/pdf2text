@@ -39,5 +39,6 @@ pip install PyPDF2
 ## Utilizzo ##
 Una volta scaricate le librerie necessarie e scaricato il repository, per avviare lo script sarà sufficiente eseguire il comando:
 ```
-python3 app.py
+python3 pdf2text.py
 ```
+Una volta avviato apparirà una finestra di dialogo tramite cui selezionare uno o più file `.pdf`, i file testuali saranno creati nella stessa cartella e con lo stesso nome dei file originali, con estensione `.txt`
