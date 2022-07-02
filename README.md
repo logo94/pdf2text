@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Python-3.8%2B-green.svg)
 
 # pdf2text
-Script in Python per la conversione di file dal formato `.pdf` al formato `.txt'
+Script in Python per la conversione di file dal formato `.pdf` al formato `.txt`.
 
 ## Installazione ##
 Per l'utilizzo degli scripts è necessario aver scaricato `Python 3.8+` sul proprio dispositivo, per installare Python seguire, in base al proprio sistema operativo, le istruzioni riportate al seguente [link](https://www.python.org/downloads/).
