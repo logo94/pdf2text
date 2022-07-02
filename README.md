@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/OS-Linux-blueviolet.svg)
 [![it](https://img.shields.io/badge/lang-it-blue.svg)](https://github.com/logo94/excel2text-key/blob/main/README.md)
 ![](https://img.shields.io/badge/Python-3.8%2B-green.svg)
 
