@@ -30,11 +30,10 @@ source pyenv/bin/activate
 ```
 
 ### Librerie ###
-Una volta attivato l'ambiente virtuale è possibile procedere con l'installazione delle librerie necessarie:
+Una volta attivato l'ambiente virtuale è possibile procedere con l'installazione delle librerie necessarie
 
-[pdf2text.py](https://github.com/logo94/pdf2text/blob/main/pdf2text.py) utilizza la libreria [PyPDF2](https://github.com/py-pdf/PyPDF2), per l'installazione eseguire:
 ```
-pip install PyPDF2
+pip install -r requirements.txt
 ```
 
 ## Utilizzo ##
